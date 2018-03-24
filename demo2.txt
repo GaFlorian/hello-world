@@ -1,6 +1,0 @@
-this is the first commit5
-this is the first commit4
-this is the   commit3
-this is the first commit2
-this is the first commit1
-asdas
